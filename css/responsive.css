@@ -1,0 +1,137 @@
+
+
+@media (max-width: 1410px) {
+	.custom-container {max-width: auto;width: 100%;padding: 0 40px;}
+	.up-social-links {padding-left: 30px;}
+	.feature-info h3 {font-size: 30px;}
+	p {font-size: 16px;line-height: 22px;}
+	.service-info {width: 80%;}
+	.service-info h3 {font-size: 26px;}
+	.service-main-info h3 {font-size: 52px;line-height: 52px;}
+	.testimonial {margin-top: -390px;}
+	.banner-text {padding-top: 150px;}
+}
+
+@media (max-width: 1200px) {
+	nav {display: none;}
+	.abt-info {width: 70%;}
+	.service-info h3 {font-size: 24px;}
+	.service-main-info h3 {font-size: 45px;line-height: 45px;}
+	.pricing {padding: 120px 0 340px 0;}
+	.heading.st2 {margin-bottom: 20px;}
+	.user-info h3 {font-size: 20px;}
+	.news {padding: 110px 0 110px 0;}
+	.blog-info h3 {font-size: 26px;}
+	.blog-catgs li {margin-right: 10px;}
+	.wait-sec h3 {font-size: 46px;}
+	.wait-sec {padding: 120px 0;}
+	.top-footer {padding: 50px 0;}
+	.up-social-links {padding-right: 50px;}
+	.mobile-menu-btn {display: block;}
+	.features {padding: 0;}
+	.banner-text {padding-top: 85px;}
+	.get-started {padding-bottom: 100px;}
+	.banner-text p br {display: none;}
+}
+
+@media (max-width: 991px) {
+	.feature {margin-bottom: 40px;}
+	.features-sec {margin-bottom: -40px;}
+	.about-img img {width: auto;max-width: 50%;float: none;}
+	.about-img {text-align: center;}
+	.features-sec::before {display: none;}
+	.features::before {display: none;}
+	.features {padding-bottom: 0;}
+	.about {padding: 120px 0;}
+	.about-list {padding-left: 0;padding-top: 40px;}
+	.about-num.st2::before {left: 0;}
+	.mg-btm-minus {margin-top: 0;}
+	.services {padding: 60px 0;}
+	.mg-top-minus {margin-top: 0;}
+	.bg5 {display: none;}
+	.price:hover .price-head {padding-top: 28px;}
+	.pricing {padding: 40px 0 340px 0;}
+	.heading h3 {font-size: 40px;}
+	.testimonial-slider {float: left;width: 100%;}
+	.user-comment p {font-size: 30px;line-height: 36px;}
+	.user-comment {padding: 25px 10px;}
+	.user-info h3 {font-size: 15px;}
+	.blog-post {margin-bottom: 40px;}
+	.wait-sec {padding: 75px 0;}
+	.blog-posts {margin-bottom: -40px;}
+	.wait-sec h3 {margin-bottom: 40px;font-size: 40px;}
+	.widget > p {font-size: 14px;}
+	.widget {margin-bottom: 40px;}
+	.responsive-mobile-menu {width: 50%;}
+	.landing-sec {padding: 80px 0;}
+	.landing-sec p {width: 100%;margin-bottom: 60px;}
+	.banner-text {text-align: center;}	
+	.banner-imgs img {width: auto;max-width: 50%;float: none;}
+	.banner-imgs {text-align: center;margin-top: 30px;}
+	.main-section {padding: 125px 0 200px 0;}
+	.services {margin-top: 0;}
+	.pricing {margin-top: 0;}
+	.banner-text p {padding: 0 100px;}
+}
+
+
+@media (max-width: 768px) {
+	.feature-info h3 {font-size: 24px;}
+	.abt-info h3 {font-size: 28px;}
+	.services {padding: 40px 0;}
+	.about-info {margin-bottom: 45px;}
+	.services-list {padding-top: 0;}
+	.about {padding-bottom: 50px;}
+	.service-main-info {position: static;float: left;width: 100%;transform: inherit;}
+	.price:hover .price-head {padding-top: 50px;}
+	.service-img {width: 100%;text-align: center;}
+	.heading h3 {font-size: 34px;}
+	.user-comment {padding: 25px 10px;}
+	.user-comment p {font-size: 24px;line-height: 30px;}
+	.blog-catgs li {margin-bottom: 10px;}
+	.wait-sec h3 {font-size: 30px;margin-bottom: 25px;}
+	header {position: static;}
+	.responsive-mobile-menu {width: 60%;}
+	.up-social-links ul li a {padding: 0 7px;}
+	.main-section {padding: 70px 0 200px 0;}
+	.ld-pages li h3 {font-size: 18px;}
+	.banner-text {padding-top: 0;}
+	.banner-text > a {padding: 0 50px;height: 60px;line-height: 60px;}
+	.banner-text p {margin-bottom: 40px;}
+}
+
+
+@media (max-width: 576px) {
+	header {padding: 25px 0;}
+	.up-social-links {display: none;}
+	.abt-info {width: 100%;margin-top: 20px;}
+	.custom-container {padding: 0 15px;}
+	.about-list > a {padding: 0 25px;font-size: 18px;height: 50px;line-height: 50px;}
+	.services {padding: 30px 0;}
+	.about-info {margin-bottom: 35px;}
+	.service-main-info h3 {font-size: 32px;line-height: 34px;}
+	.service-main-info {padding-top: 50px;}
+	.service-info h3 {font-size: 20px;}
+	.price:hover .price-head {padding-top: inherit;}
+	.price:hover {background: inherit;transform: inherit;padding: 40px 15px;}
+	.user-comment p {font-size: 20px;line-height: 27px;}
+	.user-info h3 {font-size: 15px;}
+	.testimonial-nav {margin-top: 30px;}
+	.user-comment {padding: 25px 10px;}
+	.wait-sec > a {padding: 20px 25px;}
+	.wait-sec h3 {padding: 0 20px;line-height: 34px;}
+	.top-footer {padding-top: 0;}
+	.bottom-footer-data p {width: 100%;margin-bottom: 15px;}
+	.bottom-footer-data {text-align: center;}
+	.responsive-mobile-menu {width: 100%;}
+	.social-links {width: 100%;}
+	.ld-pages li {width: 100%;margin-bottom: 40px;}
+	.banner-text h2 {font-size: 40px;}
+	.banner-text p br {display: none;}
+	.banner-text p {margin-bottom: 25px;}
+	.banner-imgs img {max-width: 70%;}
+	.main-section {padding: 70px 0 100px 0;}
+	.banner-text > a {font-size: 18px;}
+	.news {padding: 60px 0;}
+	.banner-text p {padding: 0 20px;}
+}
